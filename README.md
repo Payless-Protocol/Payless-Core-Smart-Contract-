@@ -19,7 +19,7 @@ Payless is an on-chain registry designed to solve the "Trust Gap" in emerging se
 | Property | Detail |
 | :--- | :--- |
 | **Network** | Base Sepolia |
-| **Contract Address** | `[0xe28e2D07c3E44709Ce0286A4ce44398F2B6aA4C4]` |
+| **Contract Address** | `[0x90afC5fDaD522Bd0a71CE62Cf3b28cA024DCb392]` |
 | **Status** | V1 Alpha (Live) |
 
 ---
